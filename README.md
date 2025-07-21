@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do **Bot Finance Manager**\! Este é um bot para Discord projetado para ajudar você e seus amigos a gerenciarem suas finanças pessoais diretamente dentro do servidor do Discord, de forma simples e intuitiva.
 
-Com o Bot Finança 2.0, você pode registrar gastos e rendas, acompanhar seu saldo, definir e monitorar metas financeiras, organizar transações por categorias e gerar relatórios para uma visão clara da sua saúde financeira.
+Com o Bot Finança, você pode registrar gastos e rendas, acompanhar seu saldo, definir e monitorar metas financeiras, organizar transações por categorias e gerar relatórios para uma visão clara da sua saúde financeira.
 
 -----
 
