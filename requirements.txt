@@ -1,0 +1,9 @@
+discord.py==2.3.2
+python-dotenv==1.0.0
+SQLAlchemy==2.0.19
+matplotlib==3.8.0
+Pillow==10.0.1 # Necessário para matplotlib funcionar bem
+reportlab
+Flask               # Framework web
+Flask-Session       # Para gerenciar sessões de usuário (login)
+requests            # Para fazer requisições HTTP para a API do Discord
